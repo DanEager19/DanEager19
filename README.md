@@ -11,5 +11,7 @@ I upload some of my class code as private repos. I also have some other side-pro
 I'm begin into learning about web development! I have expereince with LAMP, Node, React, Mongo, and more!
 
 ###Some Stats:
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=DanEager19&count_private=true&theme=tokyonight&showicons=true)]()
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DanEager19&langs_count=5&theme=tokyonight)]()
