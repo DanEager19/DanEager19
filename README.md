@@ -12,7 +12,6 @@ My areas of study, whether in classes or on my own, generally revolve around cyb
 
 Some Stats:
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=DanEager19&count_private=true&theme=tokyonight&showicons=true)]()
+![](https://github.com/DanEager19/github-stats/blob/master/generated/overview.svg)
 
 ![](https://github.com/DanEager19/github-stats/blob/master/generated/languages.svg)
-
