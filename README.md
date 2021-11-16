@@ -13,7 +13,8 @@ My areas of study, whether in classes or on my own, generally revolve around cyb
 Languages:
 - C/C++
 - Python
-- JavaScript/TypeScript
+- JavaScript/NodeJS
+- TypeScript
 - PHP
 
 Pseudo-Languages
@@ -21,7 +22,12 @@ Pseudo-Languages
 - SASS
 - SQL/MySQL
 - MongoDB
+- GraphQL
 
+Frameworks
+- React.JS
+- Express
+- Vue.JS
 
 Some Stats:
 
