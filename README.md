@@ -17,18 +17,6 @@ Languages:
 - TypeScript
 - PHP
 
-Pseudo-Languages
-- HTML/CSS
-- SASS
-- SQL/MySQL
-- MongoDB
-- GraphQL
-
-Frameworks
-- React.JS
-- Express
-- Vue.JS
-
 Some Stats:
 
 ![](https://github.com/DanEager19/github-stats/blob/master/generated/overview.svg)
