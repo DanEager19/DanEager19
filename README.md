@@ -8,4 +8,6 @@ I'm big into homelabbing. I've set up a little home network of Raspberry Pis. AM
 
 I upload some of my class code as private repos. I also have some other side-projects, scripts, dotfiles, etc. <br>
 
-My areas of study, whether in classes or on my own, generally revolve around cybersecurity, web applications, and computer networking. I have expereince with LAMP and MERN. 
+My areas of study, whether in classes or on my own, generally revolve around cybersecurity, web applications, and computer networking. 
+
+I generally work with HTML/CSS, TypeScript, C++, and Bash. However, I'm comfortable with SQL, MongoDB, JavaScript, PHP, Python, C, and Ruby. I'd like to start learning some Rust, Go, and Dart.
