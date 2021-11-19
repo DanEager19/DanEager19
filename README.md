@@ -9,9 +9,3 @@ I'm big into homelabbing. I've set up a little home network of Raspberry Pis. AM
 I upload some of my class code as private repos. I also have some other side-projects, scripts, dotfiles, etc. <br>
 
 My areas of study, whether in classes or on my own, generally revolve around cybersecurity, web applications, and computer networking. I have expereince with LAMP and MERN. 
-
-Some Stats:
-
-![](https://github.com/DanEager19/github-stats/blob/master/generated/overview.svg)
-
-![](https://github.com/DanEager19/github-stats/blob/master/generated/languages.svg)
