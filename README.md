@@ -10,4 +10,4 @@ I upload some of my class code as private repos. I also have some other side-pro
 
 My areas of study, whether in classes or on my own, generally revolve around cybersecurity, web applications, and computer networking. 
 
-I generally work with HTML/CSS, TypeScript, C++, and Bash. However, I'm comfortable with SQL, MongoDB, JavaScript, PHP, Python, C, and Ruby. I'd like to start learning some Rust, Go, and Dart.
+I generally work with HTML/CSS, TypeScript, C++, and Bash. However, I'm comfortable with SQL, MongoDB, JavaScript, PHP, Python, and C. I'd like to start learning some Rust, Go, and Dart.
