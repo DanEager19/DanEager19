@@ -11,3 +11,6 @@ I upload some of my class code as private repos. I also have some other side-pro
 My areas of study, whether in classes or on my own, generally revolve around cybersecurity, web applications, and computer networking. 
 
 I generally work with HTML/CSS, JavaScript, C++, and Bash. However, I'm comfortable with SQL, MongoDB, TypeScript, PHP, Python, and C. I'd like to start learning some Rust, Go, and Dart.
+
+![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=DanEager19)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanEager19)
