@@ -12,6 +12,4 @@ My areas of study, whether in classes or on my own, generally revolve around cyb
 
 I generally work with HTML/CSS, JavaScript, C++, and Bash. However, I'm comfortable with SQL, MongoDB, TypeScript, PHP, Python, and C. I'd like to start learning some Rust, Go, and Dart.
 
-![](https://github.com/DanEager19/github-stats/blob/master/generated/overview.svg)
-
-![](https://github.com/DanEager19/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/DanEager19/github-stats/blob/master/generated/overview.svg) ![](https://github.com/DanEager19/github-stats/blob/master/generated/languages.svg)
