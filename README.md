@@ -10,7 +10,5 @@ I upload some of my class code as private repos. I also have some other side-pro
 
 My areas of study, whether in classes or on my own, generally revolve around cybersecurity, web applications, and computer networking. 
 
-I generally work with HTML/CSS, JavaScript/TypeScript, C/C++, Rust, PHP, Python, and Bash.
-
 ![](https://github.com/DanEager19/github-stats/blob/master/generated/overview.svg) 
 ![](https://github.com/DanEager19/github-stats/blob/master/generated/languages.svg)
