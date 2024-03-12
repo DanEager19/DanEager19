@@ -1,14 +1,4 @@
-### Hi there!
-
-I'm currently attending DSU, majoring in Cyber Operations as well as Cyber Leadership. I'll be graduating in 2024. <br>
-
-In my spare time, I'm working on my Full-Stack web app, In-DB. It's using the MERN stack along with some other tools like SASS and Mongoose <br>
-
-I'm big into homelabbing. I've set up a little home network of Raspberry Pis and a refurbished HP Compaq. AMA about them! <br>
-
-I upload some of my class code as private repos. I also have some other side-projects, scripts, dotfiles, etc. <br>
-
-My areas of study, whether in classes or on my own, generally revolve around cybersecurity, web applications, and computer networking. 
+Daniel Eager is a Bachelor’s student at Dakota State University and an Undergraduate Research Intern at Los Alamos National Laboratory. He is pursuing two degrees in Cyber Operations (B.S.), and Cyber Leadership and Intelligence (B.S.), both of which he will graduate with in Spring of 2024. He is also pursuing a Master’s degree with Dakota State University in Cyber Defense (M.S.), of which he will graduate in Spring of 2025. He is a recipient of the CyberCorps Scholarship for Service (SFS) award, a program designed to facilitate rising cybersecurity professionals' careers in the public sector. At Los Alamos National Laboratory, he pursues research in Automated Malware Analysis, Software Bill of Materials (SBOMs) solution, and Vulnerability Exploit Exchange (VEX)/Vulnerability Disclosure Report (VDR) capabilities.
 
 ![](https://github.com/DanEager19/github-stats/blob/master/generated/overview.svg) 
 ![](https://github.com/DanEager19/github-stats/blob/master/generated/languages.svg)
